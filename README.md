@@ -32,7 +32,7 @@ The app automatically selects the optimal AI model based on your query:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/smart-chat-app.git
+git clone [https://github.com/yourusername/smart-chat-app.git](https://github.com/quantumhigherdimensioninnovation/supermind-OpenAI-Claude-agent-ui.git)
 cd smart-chat-app
 ```
 
@@ -42,6 +42,10 @@ pip install -r requirements.txt
 ```
 
 ### 3. Set up API keys
+
+- **Get your OpenAI ChatGPT API keys at:** *[https://platform.openai.com/settings/organization/api-keys](https://platform.openai.com/settings/organization/api-keys)*
+- **Get your Antrhophic Claude API keys at:** *[https://console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)*
+
 Create a `.env` file or configure in the app sidebar:
 ```bash
 # Get Claude API key: https://console.anthropic.com/
