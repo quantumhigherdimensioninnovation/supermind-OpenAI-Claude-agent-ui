@@ -1,4 +1,4 @@
-# 🧠 Smart Chat with Memory
+# 🧠 Supermind Smart Chat OpenAI claude agent with Memory
 
 > An intelligent chat application with RAG-powered memory and multi-model AI support
 
@@ -103,11 +103,16 @@ The RAG (Retrieval Augmented Generation) system uses:
 - **Claude 3.5 Sonnet** - Balanced performance for complex tasks
 - **Claude 3.5 Haiku** - Fast, cost-effective for simple queries  
 - **Claude 3 Haiku** - Budget-friendly option
+- **Claude 4 Opus** - Premium Cost, Complex analysis
+- **Claude 4 Sonnet** - Medium Cost, Balanced tasks
 
 ### OpenAI Models
 - **GPT-4o Mini** - Excellent for reasoning and general tasks
 - **GPT-4o** - Advanced model for complex problems
 - **GPT-3.5 Turbo** - Budget-friendly option
+- **GPT-4.1** - Flagship, best for complex tasks
+- **GPT-4.1 Mini** - Intelligence, speed, and cost
+- **o1-mini** - Medium Cost, Reasoning
 
 ## 🎨 Screenshots
 
@@ -185,10 +190,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenAI](https://openai.com) for GPT models
 - [Streamlit](https://streamlit.io) for the amazing framework
 - [Sentence Transformers](https://www.sbert.net/) for embeddings
-
-## 📞 Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
 Project Link: [https://github.com/yourusername/smart-chat-app](https://github.com/yourusername/smart-chat-app)
 
