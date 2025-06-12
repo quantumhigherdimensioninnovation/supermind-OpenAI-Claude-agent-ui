@@ -32,8 +32,8 @@ The app automatically selects the optimal AI model based on your query:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/smart-chat-app.git](https://github.com/quantumhigherdimensioninnovation/supermind-OpenAI-Claude-agent-ui.git)
-cd smart-chat-app
+git clone https://github.com/quantumhigherdimensioninnovation/supermind-OpenAI-Claude-agent-ui.git
+cd supermind-OpenAI-Claude-agent-ui
 ```
 
 ### 2. Install dependencies
